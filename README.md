@@ -1,2 +1,1 @@
-# selenium_assignment
-Assignment Task
+Test: http://automationpractice.com/
